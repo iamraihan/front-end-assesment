@@ -22,7 +22,7 @@ const Home = () => {
           <img className="" src={heroImg} alt="" />
         </div>
         {/* card 3 */}
-        <div className="lg:flex justify-center lg:order-3 lg:row-span-1 mt-11">
+        <div className="flex justify-center lg:order-3 lg:row-span-1 mt-11">
           <button className="btn-primary"> Create my event</button>
         </div>
       </div>
