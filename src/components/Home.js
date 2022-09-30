@@ -7,11 +7,11 @@ const Home = () => {
       <div className="grid lg:grid-cols-2 grid-cols-1 ">
         {/* card 1 */}
         <div className="lg:order-2 lg:row-span-2">
-          <h2 className="text-[65px] leading-[64px] font-bold text-center  front-end-container lg:mt-[350px] ">
+          <h2 className="text-[65px] leading-[64px] font-bold text-center  front-end-container lg:mt-72 lg:text-right ">
             Imagine if <br /> <span className="text-primary_300">Snapchat</span>
             <br /> had events.
           </h2>
-          <p className="text-neutrals_100 text-2xl text-center max-w-md mx-auto mt-4">
+          <p className="text-neutrals_100 text-2xl text-center max-w-md lg:max-w-none mx-auto mt-4  lg:text-right">
             Easily host and share events with your friends across any social
             media.
           </p>
